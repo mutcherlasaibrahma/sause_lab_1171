@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-30T19:52:46 IST" name="Sauce Labs Website " finished-at="2023-01-30T19:52:51 IST" duration-ms="5113">
+    <groups>
+    </groups>
+    <test started-at="2023-01-30T19:52:46 IST" name="Login Test" finished-at="2023-01-30T19:52:51 IST" duration-ms="5113">
+      <class name="com.atmecs.saucelab.testCases.TC_AddProducts">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.atmecs.saucelab.testCases.TC_AddProducts@5b8dfcc1]" started-at="2023-01-30T19:52:46 IST" name="setup" finished-at="2023-01-30T19:52:48 IST" duration-ms="2023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addProducts()[pri:0, instance:com.atmecs.saucelab.testCases.TC_AddProducts@5b8dfcc1]" started-at="2023-01-30T19:52:48 IST" name="addProducts" finished-at="2023-01-30T19:52:51 IST" duration-ms="2769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.saucelab.testCases.TC_AddProducts@5b8dfcc1]" started-at="2023-01-30T19:52:51 IST" name="tearDown" finished-at="2023-01-30T19:52:51 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.saucelab.testCases.TC_AddProducts -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Sauce Labs Website  -->
+</testng-results>

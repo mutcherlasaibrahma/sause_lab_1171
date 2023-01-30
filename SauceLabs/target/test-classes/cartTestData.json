@@ -1,0 +1,10 @@
+ [{
+ 	"name": "Sauce Labs Bike Light",
+ 	"qty": 1,
+ 	"price": "$9.99"
+ },
+ {
+			"name": "Sauce Labs Backpack",
+			"qty": 1,
+			"price": "$29.99"
+ }]

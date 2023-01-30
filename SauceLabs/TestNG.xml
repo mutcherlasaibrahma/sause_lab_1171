@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sauce Labs Website ">
+  <test name="Login Test">
+      <classes>
+     <!-- <class name="com.atmecs.saucelab.testCases.TC_LoginTest"/>-->
+       <class name="com.atmecs.saucelab.testCases.TC_AddProducts"/>
+      </classes>
+  </test> <!-- Test --> 
+
+</suite> <!-- Suite -->
